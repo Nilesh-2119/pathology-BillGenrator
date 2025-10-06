@@ -5,6 +5,7 @@ import Header from './components/Header'
 import { PatientNameProvider } from './components/Contex/Contex';
 import Success from './components/success/Success';
 
+
 function App() {
   const [billSelector, setBillSelector] = useState(true);
   const [submit, setSubmit] = useState(false)
