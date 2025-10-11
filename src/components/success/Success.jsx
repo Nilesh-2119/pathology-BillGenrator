@@ -1,6 +1,7 @@
 import React from 'react'
 
 function Success({ setSubmit, setBillSelector }) {
+    
     return (
         <div className='mt-50 p-5 md:p-10'>
             <div className='p-5 border-1 border-gray-300 rounded-2xl bg-indigo-100 md:p-20'>
